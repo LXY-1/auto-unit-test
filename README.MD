@@ -4,12 +4,18 @@
  * @Author: lxw
  * @Date: 2020-04-10 19:24:25
  * @LastEditors: lxw
- * @LastEditTime: 2020-04-11 16:50:02
+ * @LastEditTime: 2020-04-13 00:22:35
  -->
 
-[karma](https://blog.csdn.net/weixin_34279184/article/details/91455919?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1)
+### 启动
+```
+npm install
+npm run test
+```
 
-#### 以下是分两个流程进行配置
+### 配置过程
+
+#### 分两个步骤进行配置
 
 1. karma工具的配置
 > 具体的信息都以注释的形式写在了工程的karma配置文件了
